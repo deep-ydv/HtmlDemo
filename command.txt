@@ -1,0 +1,10 @@
+
+
+        GIT
+
+        1) git --version(for version)
+        2) git init 
+        3) pwd
+        4) $ git config --global user.name "deep-ydv"
+        5) $ git config --global user.email "work.pradeepydv@gmail.com"
+        6) $ git config --list
